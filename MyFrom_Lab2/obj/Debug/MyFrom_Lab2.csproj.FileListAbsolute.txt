@@ -1,0 +1,11 @@
+F:\desktop\VuBaDong_2111818_Lab2\MyFrom_Lab2\MyFrom_Lab2\obj\Debug\MyFrom_Lab2.csproj.AssemblyReference.cache
+F:\desktop\VuBaDong_2111818_Lab2\MyFrom_Lab2\MyFrom_Lab2\obj\Debug\MyFrom_Lab2.csproj.SuggestedBindingRedirects.cache
+F:\desktop\VuBaDong_2111818_Lab2\MyFrom_Lab2\MyFrom_Lab2\obj\Debug\MyFrom_Lab2.Form1.resources
+F:\desktop\VuBaDong_2111818_Lab2\MyFrom_Lab2\MyFrom_Lab2\obj\Debug\MyFrom_Lab2.Properties.Resources.resources
+F:\desktop\VuBaDong_2111818_Lab2\MyFrom_Lab2\MyFrom_Lab2\obj\Debug\MyFrom_Lab2.csproj.GenerateResource.cache
+F:\desktop\VuBaDong_2111818_Lab2\MyFrom_Lab2\MyFrom_Lab2\obj\Debug\MyFrom_Lab2.csproj.CoreCompileInputs.cache
+F:\desktop\VuBaDong_2111818_Lab2\MyFrom_Lab2\MyFrom_Lab2\bin\Debug\MyFrom_Lab2.exe.config
+F:\desktop\VuBaDong_2111818_Lab2\MyFrom_Lab2\MyFrom_Lab2\bin\Debug\MyFrom_Lab2.exe
+F:\desktop\VuBaDong_2111818_Lab2\MyFrom_Lab2\MyFrom_Lab2\bin\Debug\MyFrom_Lab2.pdb
+F:\desktop\VuBaDong_2111818_Lab2\MyFrom_Lab2\MyFrom_Lab2\obj\Debug\MyFrom_Lab2.exe
+F:\desktop\VuBaDong_2111818_Lab2\MyFrom_Lab2\MyFrom_Lab2\obj\Debug\MyFrom_Lab2.pdb
