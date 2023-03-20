@@ -1,0 +1,13 @@
+F:\desktop\frmGiaoVien\frmGiaoVien\frmGiaoVien\bin\Debug\frmGiaoVien.exe.config
+F:\desktop\frmGiaoVien\frmGiaoVien\frmGiaoVien\bin\Debug\frmGiaoVien.exe
+F:\desktop\frmGiaoVien\frmGiaoVien\frmGiaoVien\bin\Debug\frmGiaoVien.pdb
+F:\desktop\frmGiaoVien\frmGiaoVien\frmGiaoVien\obj\Debug\frmGiaoVien.csproj.AssemblyReference.cache
+F:\desktop\frmGiaoVien\frmGiaoVien\frmGiaoVien\obj\Debug\frmGiaoVien.csproj.SuggestedBindingRedirects.cache
+F:\desktop\frmGiaoVien\frmGiaoVien\frmGiaoVien\obj\Debug\frmGiaoVien.Form1.resources
+F:\desktop\frmGiaoVien\frmGiaoVien\frmGiaoVien\obj\Debug\frmGiaoVien.Properties.Resources.resources
+F:\desktop\frmGiaoVien\frmGiaoVien\frmGiaoVien\obj\Debug\frmGiaoVien.csproj.GenerateResource.cache
+F:\desktop\frmGiaoVien\frmGiaoVien\frmGiaoVien\obj\Debug\frmGiaoVien.csproj.CoreCompileInputs.cache
+F:\desktop\frmGiaoVien\frmGiaoVien\frmGiaoVien\obj\Debug\frmGiaoVien.exe
+F:\desktop\frmGiaoVien\frmGiaoVien\frmGiaoVien\obj\Debug\frmGiaoVien.pdb
+F:\desktop\frmGiaoVien\frmGiaoVien\frmGiaoVien\obj\Debug\frmGiaoVien.frmTBGiaoVien.resources
+F:\desktop\frmGiaoVien\frmGiaoVien\frmGiaoVien\obj\Debug\frmGiaoVien.TimKiem.resources
