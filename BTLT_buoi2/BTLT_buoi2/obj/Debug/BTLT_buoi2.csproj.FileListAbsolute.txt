@@ -1,0 +1,11 @@
+F:\desktop\BTLT_buoi2\BTLT_buoi2\bin\Debug\BTLT_buoi2.exe.config
+F:\desktop\BTLT_buoi2\BTLT_buoi2\bin\Debug\BTLT_buoi2.exe
+F:\desktop\BTLT_buoi2\BTLT_buoi2\bin\Debug\BTLT_buoi2.pdb
+F:\desktop\BTLT_buoi2\BTLT_buoi2\obj\Debug\BTLT_buoi2.csproj.AssemblyReference.cache
+F:\desktop\BTLT_buoi2\BTLT_buoi2\obj\Debug\BTLT_buoi2.csproj.SuggestedBindingRedirects.cache
+F:\desktop\BTLT_buoi2\BTLT_buoi2\obj\Debug\BTLT_buoi2.Form1.resources
+F:\desktop\BTLT_buoi2\BTLT_buoi2\obj\Debug\BTLT_buoi2.Properties.Resources.resources
+F:\desktop\BTLT_buoi2\BTLT_buoi2\obj\Debug\BTLT_buoi2.csproj.GenerateResource.cache
+F:\desktop\BTLT_buoi2\BTLT_buoi2\obj\Debug\BTLT_buoi2.csproj.CoreCompileInputs.cache
+F:\desktop\BTLT_buoi2\BTLT_buoi2\obj\Debug\BTLT_buoi2.exe
+F:\desktop\BTLT_buoi2\BTLT_buoi2\obj\Debug\BTLT_buoi2.pdb
