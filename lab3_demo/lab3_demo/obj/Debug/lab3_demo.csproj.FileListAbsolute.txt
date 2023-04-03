@@ -1,0 +1,12 @@
+F:\desktop\lab3\lab3_demo\lab3_demo\bin\Debug\lab3_demo.exe.config
+F:\desktop\lab3\lab3_demo\lab3_demo\bin\Debug\lab3_demo.exe
+F:\desktop\lab3\lab3_demo\lab3_demo\bin\Debug\lab3_demo.pdb
+F:\desktop\lab3\lab3_demo\lab3_demo\obj\Debug\lab3_demo.csproj.AssemblyReference.cache
+F:\desktop\lab3\lab3_demo\lab3_demo\obj\Debug\lab3_demo.csproj.SuggestedBindingRedirects.cache
+F:\desktop\lab3\lab3_demo\lab3_demo\obj\Debug\lab3_demo.frmSinhVien.resources
+F:\desktop\lab3\lab3_demo\lab3_demo\obj\Debug\lab3_demo.Properties.Resources.resources
+F:\desktop\lab3\lab3_demo\lab3_demo\obj\Debug\lab3_demo.csproj.GenerateResource.cache
+F:\desktop\lab3\lab3_demo\lab3_demo\obj\Debug\lab3_demo.csproj.CoreCompileInputs.cache
+F:\desktop\lab3\lab3_demo\lab3_demo\obj\Debug\lab3_demo.exe
+F:\desktop\lab3\lab3_demo\lab3_demo\obj\Debug\lab3_demo.pdb
+F:\desktop\lab3\lab3_demo\lab3_demo\obj\Debug\lab3_demo.frmTuyChon.resources
